@@ -49,13 +49,4 @@ It converts raw marketing data into meaningful insights to support **data-driven
 - Improved targeting through audience segmentation  
 - Highlighted low-performing areas for optimization  
 
----
 
-
-
-## 📬 Contact
-For feedback or opportunities, connect with me on LinkedIn.
-
----
-
-⭐ If you found this project helpful, please give it a star!
